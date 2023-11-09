@@ -1,6 +1,6 @@
 {
-    "description": "Tidme website zh-Hans",
-	"plugins": [
+    "description": "Tidme website fr-FR",
+    "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/github-fork-ribbon"
@@ -9,8 +9,8 @@
         "tiddlywiki/vanilla",
         "tiddlywiki/snowwhite"
     ],
-	"languages": [
-		"zh-Hans"
-	],
+    "languages": [
+        "fr-FR"
+    ],
     "build": {}
 }

@@ -1,6 +1,6 @@
 created: 20220401070141326
 modified: 20220414151138574
-title: 安装使用
+title: Installation et utilisation
 type: text/vnd.tiddlywiki
 
 \define flag-title()
@@ -34,4 +34,4 @@ $(languagePluginTitle)$/icon
 </$list>
 </div>
 
-等不及了？点击对应语言打开传送门！
+Vous ne pouvez pas attendre ? Cliquez sur la langue correspondante pour ouvrir le portail !
