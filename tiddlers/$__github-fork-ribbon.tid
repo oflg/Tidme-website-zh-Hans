@@ -5,6 +5,6 @@ title: $:/github-fork-ribbon
 type: text/vnd.tiddlywiki
 
 <!-- TOP LEFT RIBBON: START COPYING HERE -->
-<div class="github-fork-ribbon-wrapper right"><div class="github-fork-ribbon"><a href="https://github.com/oflg/Tidme" target="blank">开 源</a></div>
+<div class="github-fork-ribbon-wrapper right"><div class="github-fork-ribbon"><a href="https://github.com/oflg/Tidme" target="blank">open source</a></div>
 </div>
 <!-- TOP LEFT RIBBON: END COPYING HERE -->

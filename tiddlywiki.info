@@ -1,5 +1,5 @@
 {
-    "description": "Tidme website fr-FR",
+    "description": "Tidme website de-DE",
     "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
@@ -11,7 +11,8 @@
     ],
     "languages": [
         "zh-Hans",
-        "fr-FR"
+        "fr-FR",
+        "de-DE"
     ],
     "build": {}
 }
