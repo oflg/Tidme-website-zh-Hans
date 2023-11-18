@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 $(languagePluginTitle)$/icon
 \end
 
-Unterstützungssprache
+Unterstützte Sprachen
 
 <div class="tc-drop-down-language-chooser" style="font-size: 6px; line-height: 10px; -moz-columns:4; -webkit-columns:4; columns:4;">
 <$list filter="[[$:/languages/en-GB]] [plugin-type[language]sort[title]] -[[$:/languages/de-AT]]">
@@ -34,4 +34,4 @@ Unterstützungssprache
 </$list>
 </div>
 
-Kannst du es kaum erwarten? Klicken Sie auf die entsprechende Sprache, um das Portal zu öffnen!
+Sie können es nicht erwarten? Klicken Sie auf die entsprechende Sprache, um das Portal zu öffnen!
